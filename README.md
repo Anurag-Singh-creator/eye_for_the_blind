@@ -6,9 +6,9 @@
 
 This project encapsulates applications of both deep learning and natural language processing. The image features are extracted using a CNN-based encoder, which is subsequently decoded by an RNN model.
 
-The inspiration for this project stems from the extended application of the "Show, Attend and Tell: Neural Image Caption Generation with Visual Attention" paper.
+The inspiration for this project stems from the extended application of the ["Show, Attend and Tell: Neural Image Caption Generation with Visual Attention"](https://arxiv.org/abs/1502.03044) paper.
 
-The dataset, sourced from the Kaggle platform, comprises sentence-based image descriptions. It features a list of 8,000 images, each paired with five distinct captions that meticulously describe the prominent entities and occurrences within the image.
+The dataset, sourced from the [Kaggle platform](https://www.kaggle.com/datasets/adityajn105/flickr8k), comprises sentence-based image descriptions. It features a list of 8,000 images, each paired with five distinct captions that meticulously describe the prominent entities and occurrences within the image.
 
 ## Project Pipeline
 
